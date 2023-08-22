@@ -1,2 +1,2 @@
-from .Database import Database
-from .Schema import Schema
+from .schema import *
+from .strings import *
